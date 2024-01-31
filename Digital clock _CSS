@@ -1,0 +1,41 @@
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: 
+    rgb(37, 21, 21);
+    font-size: 160px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 7px;
+    margin-top: 30px;
+}
+.h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.heading{
+    margin-left: 500px;
+    margin-top: 30px;
+    font-size: xx-large;
+    font-weight: 1000;
+    font-style: italic;
+    color:rgb(250, 40, 40);
+}
+.clocks{
+    margin-left:500px;
+    margin-top: 350px;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.clock1{
+    margin-left: 300px;
+    margin-top: 250px;
+    word-spacing: 190px;
+    font-size: x-large;
+    font-weight: 300;
+    color: rgb(240, 139, 6);
+    
+}
